@@ -10,6 +10,7 @@ External API: FinnHub for stock prices for all companies on the the Dow Jones In
 Server:
 
 SpringBoot (in Java)
+
 Maven
 
 
